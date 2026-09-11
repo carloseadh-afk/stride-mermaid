@@ -1,4 +1,4 @@
-Arquitectura de Seguridad, Diagrama Mermaid y Modelo STRIDE
+# Práctica 2: Arquitectura de Seguridad, Diagrama Mermaid y Modelo STRIDE
 
 Este repositorio contiene la documentación técnica, el diagrama de flujo de datos y el análisis de amenazas basado en el modelo **STRIDE** para el **Escenario 1** (Aplicación Web Segura y Red Empresarial).
 
